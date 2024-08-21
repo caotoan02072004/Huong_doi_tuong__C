@@ -1,0 +1,7 @@
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\bin\Debug\Exam_Aptech.exe.config
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\bin\Debug\Exam_Aptech.exe
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\bin\Debug\Exam_Aptech.pdb
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\obj\Debug\Exam_Aptech.csproj.AssemblyReference.cache
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\obj\Debug\Exam_Aptech.csproj.CoreCompileInputs.cache
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\obj\Debug\Exam_Aptech.exe
+D:\LearningCode\C#\Exam_Aptech\Exam_Aptech\obj\Debug\Exam_Aptech.pdb
